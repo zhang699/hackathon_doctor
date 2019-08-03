@@ -1,0 +1,23 @@
+{
+  "original": {
+    "CHRNO": "03243989",
+    "FEENO": "",
+    "EDIAG_DESC": "血尿",
+    "RSV_CPD_DATE": "1051250",
+    "BEDNO": "VVV98"
+  },
+  "match": [
+    {
+      "CHRNO": "03243989",
+      "similarity": ["EDIAG_DESC"]
+    },
+    {
+      "CHRNO": "03243911",
+      "similarity": ["RSV_CPD_DATE"]
+    },
+    {
+      "CHRNO": "03243945",
+      "similarity": ["BEDNO"]
+    }
+  ]
+}
